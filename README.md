@@ -1,16 +1,12 @@
 ## Hi there, me chamo Paulo Jorge 👋
-## 🎓 Formando em Gestão Financeira, com formação em Gestão de Recursos Humanos e atualmente cursando Análise e Desenvolvimento de Sistemas.
-
-💼 Experiência em planejamento financeiro, controle de custos, fluxo de caixa e análise de investimentos, apoiando decisões estratégicas e garantindo a sustentabilidade dos negócios. Atuação com relatórios gerenciais, indicadores de desempenho e compliance, além de negociação com instituições financeiras e stakeholders.
-
-🚀 Diferencial: capacidade de integrar finanças, gestão de pessoas e tecnologia, unindo visão estratégica e foco em resultados com habilidades em programação, banco de dados e análise de dados.
+##
 
 <!--
 **Paulguima/Paulguima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on na DDDl Advogados, Sou Assitente Financeiro
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
