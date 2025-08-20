@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Paulo Jorge  
 
-**Analista Financeiro | Gestão Financeira | ESG | Cursando Análise e Desenvolvimento de Sistemas | Gestão de Banco de Dados**
+**Analista Financeiro | Gestão Financeira |Gestão de Recursos Humanos | ESG | Cursando Análise e Desenvolvimento de Sistemas | Gestão de Banco de Dados**
 
 ---
 
